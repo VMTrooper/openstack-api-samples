@@ -1,0 +1,169 @@
+{
+    "access": {
+        "metadata": {
+            "is_admin": 0,
+            "roles": [
+                "9fe2ff9ee4384b1894a90878d3e92bab",
+                "8b283dfffd0a459ebf1cf542efd3de73"
+            ]
+        },
+        "serviceCatalog": [
+            {
+                "endpoints": [
+                    {
+                        "adminURL": "http://10.28.227.50:8774/v2/ebc628bd30104e52a03bb5d5808c0013",
+                        "id": "1b5918b2e1564fc4aa44626f800686b9",
+                        "internalURL": "http://10.28.227.50:8774/v2/ebc628bd30104e52a03bb5d5808c0013",
+                        "publicURL": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/v2/ebc628bd30104e52a03bb5d5808c0013",
+                        "region": "nova"
+                    }
+                ],
+                "endpoints_links": [],
+                "name": "nova",
+                "type": "compute"
+            },
+            {
+                "endpoints": [
+                    {
+                        "adminURL": "http://10.28.227.50:9696",
+                        "id": "61a7a41e3988490da9ff1350f16208d8",
+                        "internalURL": "http://10.28.227.50:9696",
+                        "publicURL": "https://prme-haas-vio-dashboard.eng.vmware.com:9696",
+                        "region": "nova"
+                    }
+                ],
+                "endpoints_links": [],
+                "name": "neutron",
+                "type": "network"
+            },
+            {
+                "endpoints": [
+                    {
+                        "adminURL": "http://10.28.227.50:8776/v2/ebc628bd30104e52a03bb5d5808c0013",
+                        "id": "187dd5d9437c4bc1b95443e51cd685df",
+                        "internalURL": "http://10.28.227.50:8776/v2/ebc628bd30104e52a03bb5d5808c0013",
+                        "publicURL": "https://prme-haas-vio-dashboard.eng.vmware.com:8776/v2/ebc628bd30104e52a03bb5d5808c0013",
+                        "region": "nova"
+                    }
+                ],
+                "endpoints_links": [],
+                "name": "cinderv2",
+                "type": "volumev2"
+            },
+            {
+                "endpoints": [
+                    {
+                        "adminURL": "http://10.28.227.50:9292",
+                        "id": "934afd0affc545328365d7438e1b9e00",
+                        "internalURL": "http://10.28.227.50:9292",
+                        "publicURL": "https://prme-haas-vio-dashboard.eng.vmware.com:9292",
+                        "region": "nova"
+                    }
+                ],
+                "endpoints_links": [],
+                "name": "glance",
+                "type": "image"
+            },
+            {
+                "endpoints": [
+                    {
+                        "adminURL": "http://10.28.227.50:8777/",
+                        "id": "905cb65e93b24f8395d743f158c8e16c",
+                        "internalURL": "http://10.28.227.50:8777/",
+                        "publicURL": "https://prme-haas-vio-dashboard.eng.vmware.com:8777/",
+                        "region": "nova"
+                    }
+                ],
+                "endpoints_links": [],
+                "name": "ceilometer",
+                "type": "metering"
+            },
+            {
+                "endpoints": [
+                    {
+                        "adminURL": "http://10.28.227.50:8000/v1",
+                        "id": "4347bb8e7acc4988bc191cbf28256c5d",
+                        "internalURL": "http://10.28.227.50:8000/v1",
+                        "publicURL": "https://prme-haas-vio-dashboard.eng.vmware.com:8000/v1",
+                        "region": "nova"
+                    }
+                ],
+                "endpoints_links": [],
+                "name": "heat-cfn",
+                "type": "cloudformation"
+            },
+            {
+                "endpoints": [
+                    {
+                        "adminURL": "http://10.28.227.50:8776/v1/ebc628bd30104e52a03bb5d5808c0013",
+                        "id": "baa1935d9aae4286989796f7a1e9dfcb",
+                        "internalURL": "http://10.28.227.50:8776/v1/ebc628bd30104e52a03bb5d5808c0013",
+                        "publicURL": "https://prme-haas-vio-dashboard.eng.vmware.com:8776/v1/ebc628bd30104e52a03bb5d5808c0013",
+                        "region": "nova"
+                    }
+                ],
+                "endpoints_links": [],
+                "name": "cinder",
+                "type": "volume"
+            },
+            {
+                "endpoints": [
+                    {
+                        "adminURL": "http://10.28.227.50:8004/v1/ebc628bd30104e52a03bb5d5808c0013",
+                        "id": "52809cf4fd25466cb35ac61745db9f27",
+                        "internalURL": "http://10.28.227.50:8004/v1/ebc628bd30104e52a03bb5d5808c0013",
+                        "publicURL": "https://prme-haas-vio-dashboard.eng.vmware.com:8004/v1/ebc628bd30104e52a03bb5d5808c0013",
+                        "region": "nova"
+                    }
+                ],
+                "endpoints_links": [],
+                "name": "heat",
+                "type": "orchestration"
+            },
+            {
+                "endpoints": [
+                    {
+                        "adminURL": "http://10.28.227.50:35357/v2.0",
+                        "id": "93a5080e3a7a436085429c32fe86ec3b",
+                        "internalURL": "http://10.28.227.50:5000/v2.0",
+                        "publicURL": "https://prme-haas-vio-dashboard.eng.vmware.com:5000/v2.0",
+                        "region": "nova"
+                    }
+                ],
+                "endpoints_links": [],
+                "name": "keystone",
+                "type": "identity"
+            }
+        ],
+        "token": {
+            "audit_ids": [
+                "sjxNcj-uTG2kWttoiarDug"
+            ],
+            "expires": "2016-04-07T18:44:42.953850Z",
+            "id": "gAAAAABXBo56WiB4VbSSKWzezSvoBrKwS4s6wbY3B0KTvaHA4XEnJV6otxnFR2vprD18a3rFSjDgGt0-vXdE6D_jx3VMDWreXby1Qh-F-4n2NomwUrIWXcxXfB89_MoOeE00lKkcHrnkhz41qG7b-efccY0o0gCzp1Fqb9NmTfSJYxSw0_Frbpg%3D",
+            "issued_at": "2016-04-07T16:44:42.000000Z",
+            "tenant": {
+                "description": "",
+                "enabled": true,
+                "id": "ebc628bd30104e52a03bb5d5808c0013",
+                "name": "demo-project",
+                "parent_id": null
+            }
+        },
+        "user": {
+            "enabled": true,
+            "id": "a308391856fd4924a1a9d3c7348b5c24",
+            "name": "demo-user",
+            "roles": [
+                {
+                    "name": "_member_"
+                },
+                {
+                    "name": "admin"
+                }
+            ],
+            "roles_links": [],
+            "username": "demo-user"
+        }
+    }
+}

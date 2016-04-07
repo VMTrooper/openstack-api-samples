@@ -1,0 +1,46 @@
+{
+    "servers": [
+        {
+            "id": "67a29720-2b70-4ffb-8fc7-5aaec4a2e5e0",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/servers/67a29720-2b70-4ffb-8fc7-5aaec4a2e5e0",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/servers/67a29720-2b70-4ffb-8fc7-5aaec4a2e5e0",
+                    "rel": "bookmark"
+                }
+            ],
+            "name": "CLI Rocks"
+        },
+        {
+            "id": "eda86d2a-cd8b-4f59-9a2a-57718cb30328",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/servers/eda86d2a-cd8b-4f59-9a2a-57718cb30328",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/servers/eda86d2a-cd8b-4f59-9a2a-57718cb30328",
+                    "rel": "bookmark"
+                }
+            ],
+            "name": "CLI Rocks"
+        },
+        {
+            "id": "99302b06-2f7a-44b9-96aa-710c25e2cf8a",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/servers/99302b06-2f7a-44b9-96aa-710c25e2cf8a",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/servers/99302b06-2f7a-44b9-96aa-710c25e2cf8a",
+                    "rel": "bookmark"
+                }
+            ],
+            "name": "test-vm"
+        }
+    ]
+}

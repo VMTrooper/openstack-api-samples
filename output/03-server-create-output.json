@@ -1,0 +1,22 @@
+{
+    "server": {
+        "OS-DCF:diskConfig": "MANUAL",
+        "adminPass": "sA7Qssw97aK8",
+        "id": "54369d2d-2245-4a55-8a5d-c6ced6c72f1f",
+        "links": [
+            {
+                "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/servers/54369d2d-2245-4a55-8a5d-c6ced6c72f1f",
+                "rel": "self"
+            },
+            {
+                "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/servers/54369d2d-2245-4a55-8a5d-c6ced6c72f1f",
+                "rel": "bookmark"
+            }
+        ],
+        "security_groups": [
+            {
+                "name": "default"
+            }
+        ]
+    }
+}
