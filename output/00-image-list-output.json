@@ -1,0 +1,488 @@
+{
+    "images": [
+        {
+            "OS-EXT-IMG-SIZE:size": 315881472,
+            "created": "2016-03-14T20:52:21Z",
+            "id": "e019a55e-d8c6-4dbc-abbe-9c2e0f218cc4",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/images/e019a55e-d8c6-4dbc-abbe-9c2e0f218cc4",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/images/e019a55e-d8c6-4dbc-abbe-9c2e0f218cc4",
+                    "rel": "bookmark"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:9292/images/e019a55e-d8c6-4dbc-abbe-9c2e0f218cc4",
+                    "rel": "alternate",
+                    "type": "application/vnd.openstack.image"
+                }
+            ],
+            "metadata": {
+                "base_image_ref": "83854473-9603-44d4-a632-396871999c9b",
+                "description": "Ubuntu 15.04 image",
+                "image_type": "image",
+                "instance_uuid": "0e3c258b-c56c-4bd7-accd-ada59239be1f",
+                "owner_id": "ebc628bd30104e52a03bb5d5808c0013",
+                "user_id": "a308391856fd4924a1a9d3c7348b5c24",
+                "vmware_adaptertype": "ide",
+                "vmware_disktype": "streamOptimized",
+                "vmware_image_version": "1"
+            },
+            "minDisk": 20,
+            "minRam": 0,
+            "name": "Packer Test Image",
+            "progress": 100,
+            "server": {
+                "id": "0e3c258b-c56c-4bd7-accd-ada59239be1f",
+                "links": [
+                    {
+                        "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/servers/0e3c258b-c56c-4bd7-accd-ada59239be1f",
+                        "rel": "self"
+                    },
+                    {
+                        "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/servers/0e3c258b-c56c-4bd7-accd-ada59239be1f",
+                        "rel": "bookmark"
+                    }
+                ]
+            },
+            "status": "ACTIVE",
+            "updated": "2016-03-14T20:54:47Z"
+        },
+        {
+            "OS-EXT-IMG-SIZE:size": 12996608,
+            "created": "2016-03-14T20:15:46Z",
+            "id": "d5337636-d433-4af1-ade2-8048179df4aa",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/images/d5337636-d433-4af1-ade2-8048179df4aa",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/images/d5337636-d433-4af1-ade2-8048179df4aa",
+                    "rel": "bookmark"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:9292/images/d5337636-d433-4af1-ade2-8048179df4aa",
+                    "rel": "alternate",
+                    "type": "application/vnd.openstack.image"
+                }
+            ],
+            "metadata": {
+                "base_image_ref": "5e0e9876-6275-4157-b48b-14a4cbc2a1ad",
+                "image_type": "image",
+                "instance_uuid": "c7f1c4de-9a03-416e-bcac-61d080cc343d",
+                "owner_id": "ebc628bd30104e52a03bb5d5808c0013",
+                "user_id": "a308391856fd4924a1a9d3c7348b5c24",
+                "vmware_adaptertype": "ide",
+                "vmware_disktype": "streamOptimized",
+                "vmware_image_version": "1"
+            },
+            "minDisk": 20,
+            "minRam": 0,
+            "name": "Packer Test Image",
+            "progress": 100,
+            "server": {
+                "id": "c7f1c4de-9a03-416e-bcac-61d080cc343d",
+                "links": [
+                    {
+                        "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/servers/c7f1c4de-9a03-416e-bcac-61d080cc343d",
+                        "rel": "self"
+                    },
+                    {
+                        "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/servers/c7f1c4de-9a03-416e-bcac-61d080cc343d",
+                        "rel": "bookmark"
+                    }
+                ]
+            },
+            "status": "ACTIVE",
+            "updated": "2016-03-14T20:18:21Z"
+        },
+        {
+            "OS-EXT-IMG-SIZE:size": 12982784,
+            "created": "2016-03-14T20:02:21Z",
+            "id": "75e966d6-4006-47c1-bdcc-fd5732ef475b",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/images/75e966d6-4006-47c1-bdcc-fd5732ef475b",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/images/75e966d6-4006-47c1-bdcc-fd5732ef475b",
+                    "rel": "bookmark"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:9292/images/75e966d6-4006-47c1-bdcc-fd5732ef475b",
+                    "rel": "alternate",
+                    "type": "application/vnd.openstack.image"
+                }
+            ],
+            "metadata": {
+                "base_image_ref": "5e0e9876-6275-4157-b48b-14a4cbc2a1ad",
+                "image_type": "snapshot",
+                "instance_uuid": "a445148a-d88e-4540-8126-699a4d5f761b",
+                "owner_id": "ebc628bd30104e52a03bb5d5808c0013",
+                "user_id": "a308391856fd4924a1a9d3c7348b5c24",
+                "vmware_adaptertype": "ide",
+                "vmware_disktype": "streamOptimized",
+                "vmware_image_version": "1"
+            },
+            "minDisk": 1,
+            "minRam": 0,
+            "name": "cirros-image",
+            "progress": 100,
+            "server": {
+                "id": "a445148a-d88e-4540-8126-699a4d5f761b",
+                "links": [
+                    {
+                        "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/servers/a445148a-d88e-4540-8126-699a4d5f761b",
+                        "rel": "self"
+                    },
+                    {
+                        "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/servers/a445148a-d88e-4540-8126-699a4d5f761b",
+                        "rel": "bookmark"
+                    }
+                ]
+            },
+            "status": "ACTIVE",
+            "updated": "2016-03-14T20:02:59Z"
+        },
+        {
+            "OS-EXT-IMG-SIZE:size": 245388800,
+            "created": "2016-02-19T07:41:47Z",
+            "id": "d755f628-2c1f-4d74-b31f-9d1a380ead1c",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/images/d755f628-2c1f-4d74-b31f-9d1a380ead1c",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/images/d755f628-2c1f-4d74-b31f-9d1a380ead1c",
+                    "rel": "bookmark"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:9292/images/d755f628-2c1f-4d74-b31f-9d1a380ead1c",
+                    "rel": "alternate",
+                    "type": "application/vnd.openstack.image"
+                }
+            ],
+            "metadata": {
+                "vmware_adaptertype": "lsiLogic",
+                "vmware_disktype": "streamOptimized"
+            },
+            "minDisk": 0,
+            "minRam": 0,
+            "name": "ubuntu-14.04-server-cloudimg-amd64",
+            "progress": 100,
+            "status": "ACTIVE",
+            "updated": "2016-02-19T07:49:03Z"
+        },
+        {
+            "OS-EXT-IMG-SIZE:size": 218812416,
+            "created": "2016-02-19T07:28:33Z",
+            "id": "4f43858a-bf9f-4229-bf02-aac1b1ab2c61",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/images/4f43858a-bf9f-4229-bf02-aac1b1ab2c61",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/images/4f43858a-bf9f-4229-bf02-aac1b1ab2c61",
+                    "rel": "bookmark"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:9292/images/4f43858a-bf9f-4229-bf02-aac1b1ab2c61",
+                    "rel": "alternate",
+                    "type": "application/vnd.openstack.image"
+                }
+            ],
+            "metadata": {
+                "vmware_adaptertype": "ide",
+                "vmware_disktype": "streamOptimized"
+            },
+            "minDisk": 0,
+            "minRam": 0,
+            "name": "ubuntu-14.04-server-cloudimg-amd64-nopwd",
+            "progress": 100,
+            "status": "ACTIVE",
+            "updated": "2016-02-19T07:35:18Z"
+        },
+        {
+            "OS-EXT-IMG-SIZE:size": 42949672960,
+            "created": "2016-02-10T04:03:00Z",
+            "id": "7a77fc6d-9259-4b8c-8c37-fee99fa8a84e",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/images/7a77fc6d-9259-4b8c-8c37-fee99fa8a84e",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/images/7a77fc6d-9259-4b8c-8c37-fee99fa8a84e",
+                    "rel": "bookmark"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:9292/images/7a77fc6d-9259-4b8c-8c37-fee99fa8a84e",
+                    "rel": "alternate",
+                    "type": "application/vnd.openstack.image"
+                }
+            ],
+            "metadata": {
+                "vmware_adaptertype": "lsiLogicsas",
+                "vmware_disktype": "preallocated",
+                "vmware_ostype": "windows8Server64Guest"
+            },
+            "minDisk": 40,
+            "minRam": 512,
+            "name": "windows-2012-r2-test",
+            "progress": 100,
+            "status": "ACTIVE",
+            "updated": "2016-02-10T05:01:40Z"
+        },
+        {
+            "OS-EXT-IMG-SIZE:size": 42949672960,
+            "created": "2016-02-10T03:07:41Z",
+            "id": "17bf6d42-317a-4fc8-a3b5-80a7dd9d93d2",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/images/17bf6d42-317a-4fc8-a3b5-80a7dd9d93d2",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/images/17bf6d42-317a-4fc8-a3b5-80a7dd9d93d2",
+                    "rel": "bookmark"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:9292/images/17bf6d42-317a-4fc8-a3b5-80a7dd9d93d2",
+                    "rel": "alternate",
+                    "type": "application/vnd.openstack.image"
+                }
+            ],
+            "metadata": {
+                "vmware_adaptertype": "lsiLogicsas",
+                "vmware_disktype": "preallocated",
+                "vmware_ostype": "windows8Server64Guest"
+            },
+            "minDisk": 40,
+            "minRam": 512,
+            "name": "windows-2012-r2",
+            "progress": 100,
+            "status": "ACTIVE",
+            "updated": "2016-02-10T03:53:00Z"
+        },
+        {
+            "OS-EXT-IMG-SIZE:size": 42949672960,
+            "created": "2016-02-10T01:34:36Z",
+            "id": "590ad531-b505-498e-861d-249b2104969e",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/images/590ad531-b505-498e-861d-249b2104969e",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/images/590ad531-b505-498e-861d-249b2104969e",
+                    "rel": "bookmark"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:9292/images/590ad531-b505-498e-861d-249b2104969e",
+                    "rel": "alternate",
+                    "type": "application/vnd.openstack.image"
+                }
+            ],
+            "metadata": {
+                "vmware_adaptertype": "lsiLogicsas",
+                "vmware_disktype": "preallocated",
+                "vmware_ostype": "windows8Server64Guest"
+            },
+            "minDisk": 40,
+            "minRam": 512,
+            "name": "windows-2012-r2-cbase",
+            "progress": 100,
+            "status": "ACTIVE",
+            "updated": "2016-02-10T02:12:36Z"
+        },
+        {
+            "OS-EXT-IMG-SIZE:size": 635895808,
+            "created": "2016-01-13T19:13:07Z",
+            "id": "47db950c-8088-4416-ba24-12f59ff1e6c6",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/images/47db950c-8088-4416-ba24-12f59ff1e6c6",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/images/47db950c-8088-4416-ba24-12f59ff1e6c6",
+                    "rel": "bookmark"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:9292/images/47db950c-8088-4416-ba24-12f59ff1e6c6",
+                    "rel": "alternate",
+                    "type": "application/vnd.openstack.image"
+                }
+            ],
+            "metadata": {
+                "vmware_adaptertype": "ide",
+                "vmware_disktype": "sparse"
+            },
+            "minDisk": 0,
+            "minRam": 0,
+            "name": "core-test",
+            "progress": 100,
+            "status": "ACTIVE",
+            "updated": "2016-01-13T19:52:04Z"
+        },
+        {
+            "OS-EXT-IMG-SIZE:size": 21757952,
+            "created": "2016-01-13T19:03:03Z",
+            "id": "5e0e9876-6275-4157-b48b-14a4cbc2a1ad",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/images/5e0e9876-6275-4157-b48b-14a4cbc2a1ad",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/images/5e0e9876-6275-4157-b48b-14a4cbc2a1ad",
+                    "rel": "bookmark"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:9292/images/5e0e9876-6275-4157-b48b-14a4cbc2a1ad",
+                    "rel": "alternate",
+                    "type": "application/vnd.openstack.image"
+                }
+            ],
+            "metadata": {
+                "vmware_adaptertype": "ide",
+                "vmware_disktype": "sparse"
+            },
+            "minDisk": 0,
+            "minRam": 0,
+            "name": "cirros",
+            "progress": 100,
+            "status": "ACTIVE",
+            "updated": "2016-01-13T19:03:07Z"
+        },
+        {
+            "OS-EXT-IMG-SIZE:size": 1248722944,
+            "created": "2015-12-14T21:53:42Z",
+            "id": "6813a75e-04c3-461d-a01f-a35b6eea6320",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/images/6813a75e-04c3-461d-a01f-a35b6eea6320",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/images/6813a75e-04c3-461d-a01f-a35b6eea6320",
+                    "rel": "bookmark"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:9292/images/6813a75e-04c3-461d-a01f-a35b6eea6320",
+                    "rel": "alternate",
+                    "type": "application/vnd.openstack.image"
+                }
+            ],
+            "metadata": {
+                "vmware_adaptertype": "ide",
+                "vmware_disktype": "sparse"
+            },
+            "minDisk": 0,
+            "minRam": 0,
+            "name": "debian-8-x64",
+            "progress": 100,
+            "status": "ACTIVE",
+            "updated": "2015-12-14T21:56:14Z"
+        },
+        {
+            "OS-EXT-IMG-SIZE:size": 910950400,
+            "created": "2015-12-14T21:43:19Z",
+            "id": "83854473-9603-44d4-a632-396871999c9b",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/images/83854473-9603-44d4-a632-396871999c9b",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/images/83854473-9603-44d4-a632-396871999c9b",
+                    "rel": "bookmark"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:9292/images/83854473-9603-44d4-a632-396871999c9b",
+                    "rel": "alternate",
+                    "type": "application/vnd.openstack.image"
+                }
+            ],
+            "metadata": {
+                "description": "Ubuntu 15.04 image",
+                "vmware_adaptertype": "ide",
+                "vmware_disktype": "sparse"
+            },
+            "minDisk": 0,
+            "minRam": 0,
+            "name": "ubuntu-15.04-x64",
+            "progress": 100,
+            "status": "ACTIVE",
+            "updated": "2015-12-14T21:46:09Z"
+        },
+        {
+            "OS-EXT-IMG-SIZE:size": 42949672960,
+            "created": "2015-10-08T01:04:29Z",
+            "id": "8a4ce32f-cb28-4504-9f99-9829468c120c",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/images/8a4ce32f-cb28-4504-9f99-9829468c120c",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/images/8a4ce32f-cb28-4504-9f99-9829468c120c",
+                    "rel": "bookmark"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:9292/images/8a4ce32f-cb28-4504-9f99-9829468c120c",
+                    "rel": "alternate",
+                    "type": "application/vnd.openstack.image"
+                }
+            ],
+            "metadata": {
+                "vmware_adaptertype": "lsiLogicsas",
+                "vmware_disktype": "preallocated",
+                "vmware_ostype": "windows7Server64Guest",
+                "windows_join_workgroup": "MSBUrocks"
+            },
+            "minDisk": 0,
+            "minRam": 0,
+            "name": "windows-2008-r2",
+            "progress": 100,
+            "status": "ACTIVE",
+            "updated": "2016-01-19T22:38:44Z"
+        },
+        {
+            "OS-EXT-IMG-SIZE:size": 931416576,
+            "created": "2015-09-11T23:22:43Z",
+            "id": "5fce8b6b-0a8d-4eed-99b8-283e7c0ff003",
+            "links": [
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774//v2/ebc628bd30104e52a03bb5d5808c0013/images/5fce8b6b-0a8d-4eed-99b8-283e7c0ff003",
+                    "rel": "self"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:8774/ebc628bd30104e52a03bb5d5808c0013/images/5fce8b6b-0a8d-4eed-99b8-283e7c0ff003",
+                    "rel": "bookmark"
+                },
+                {
+                    "href": "https://prme-haas-vio-dashboard.eng.vmware.com:9292/images/5fce8b6b-0a8d-4eed-99b8-283e7c0ff003",
+                    "rel": "alternate",
+                    "type": "application/vnd.openstack.image"
+                }
+            ],
+            "metadata": {
+                "vmware_adaptertype": "lsiLogic",
+                "vmware_disktype": "streamOptimized"
+            },
+            "minDisk": 5,
+            "minRam": 512,
+            "name": "ubuntu-14.04-server-amd64",
+            "progress": 100,
+            "status": "ACTIVE",
+            "updated": "2016-03-17T19:02:25Z"
+        }
+    ]
+}
